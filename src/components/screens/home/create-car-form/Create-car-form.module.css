@@ -1,0 +1,11 @@
+.form {
+    margin: 10px auto 30px;
+}
+
+.form input {
+    display: block;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
